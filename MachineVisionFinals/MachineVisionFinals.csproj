@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EmguCV.3.1.0.1\build\EmguCV.props" Condition="Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA124646-89B4-499B-9871-B077C419EED3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MachineVisionFinals</RootNamespace>
+    <AssemblyName>MachineVisionFinals</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV.Bitmap, Version=4.4.0.4061, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\Emgu.CV.Bitmap.4.4.0.4061\lib\netstandard2.0\Emgu.CV.Bitmap.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Platform.NetFramework, Version=4.4.0.4061, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\Emgu.CV.UI.4.4.0.4061\lib\net461\Emgu.CV.Platform.NetFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Platform.NetStandard, Version=4.4.0.4099, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.Platform.NetStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.1.0.1\lib\net30\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI.GL, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.1.0.1\lib\net30\Emgu.CV.UI.GL.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.1.1.2225.0\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.GLControl.1.1.2225.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.6.0.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Primitives.4.3.0\lib\net45\System.Drawing.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.1\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BinaryImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BinaryImage.Designer.cs">
+      <DependentUpon>BinaryImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacialRecognitionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacialRecognitionForm.Designer.cs">
+      <DependentUpon>FacialRecognitionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeometricProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeometricProperties.Designer.cs">
+      <DependentUpon>GeometricProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeometricShapeRecognitionandColorDetection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeometricShapeRecognitionandColorDetection.Designer.cs">
+      <DependentUpon>GeometricShapeRecognitionandColorDetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grayscale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grayscale.Designer.cs">
+      <DependentUpon>Grayscale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageImageEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageImageEditor.Designer.cs">
+      <DependentUpon>HomePageImageEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageConvolution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageConvolution.Designer.cs">
+      <DependentUpon>ImageConvolution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageOrientation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageOrientation.Designer.cs">
+      <DependentUpon>ImageOrientation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Projections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projections.Designer.cs">
+      <DependentUpon>Projections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PwdFacialForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PwdFacialForm.Designer.cs">
+      <DependentUpon>PwdFacialForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RGBHistogram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RGBHistogram.Designer.cs">
+      <DependentUpon>RGBHistogram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Segmentation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Segmentation.Designer.cs">
+      <DependentUpon>Segmentation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signin.Designer.cs">
+      <DependentUpon>Signin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thresholding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thresholding.Designer.cs">
+      <DependentUpon>Thresholding.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BinaryImage.resx">
+      <DependentUpon>BinaryImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacialRecognitionForm.resx">
+      <DependentUpon>FacialRecognitionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeometricProperties.resx">
+      <DependentUpon>GeometricProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeometricShapeRecognitionandColorDetection.resx">
+      <DependentUpon>GeometricShapeRecognitionandColorDetection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grayscale.resx">
+      <DependentUpon>Grayscale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageImageEditor.resx">
+      <DependentUpon>HomePageImageEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageConvolution.resx">
+      <DependentUpon>ImageConvolution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageOrientation.resx">
+      <DependentUpon>ImageOrientation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projections.resx">
+      <DependentUpon>Projections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PwdFacialForm.resx">
+      <DependentUpon>PwdFacialForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RGBHistogram.resx">
+      <DependentUpon>RGBHistogram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Segmentation.resx">
+      <DependentUpon>Segmentation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Signin.resx">
+      <DependentUpon>Signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thresholding.resx">
+      <DependentUpon>Thresholding.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\344792128_1281199442835338_8620640192292953183_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="haarcascade_frontalface_alt.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="haarcascade_frontalface_alt_tree.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="haarcascade_frontalface_default.xml" />
+    <Content Include="License-LGPL.txt" />
+    <None Include="Resources\Background1.jpg" />
+    <None Include="Resources\Background.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Emgu.CV.runtime.windows.4.4.0.4061\build\Emgu.CV.runtime.windows.targets" Condition="Exists('..\packages\Emgu.CV.runtime.windows.4.4.0.4061\build\Emgu.CV.runtime.windows.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Emgu.CV.runtime.windows.4.4.0.4061\build\Emgu.CV.runtime.windows.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Emgu.CV.runtime.windows.4.4.0.4061\build\Emgu.CV.runtime.windows.targets'))" />
+    <Error Condition="!Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.1.0.1\build\EmguCV.props'))" />
+    <Error Condition="!Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.1.0.1\build\EmguCV.targets'))" />
+  </Target>
+  <Import Project="..\packages\EmguCV.3.1.0.1\build\EmguCV.targets" Condition="Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.targets')" />
+</Project>

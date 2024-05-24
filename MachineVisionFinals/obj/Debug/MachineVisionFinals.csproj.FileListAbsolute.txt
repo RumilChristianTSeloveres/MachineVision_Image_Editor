@@ -1,0 +1,505 @@
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GetStarted.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+D:\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GetStarted.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\rumil\Downloads\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GetStarted.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Projections.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.FacialRecognitionForm.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.FacialRecognitionForm.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GetStarted.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Projections.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.xml
+C:\Users\rumil\OneDrive\Documents\MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.xml
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.FacialRecognitionForm.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Projections.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+C:\Users\rumil\OneDrive\Documents\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.dll
+C:\Users\rumil\OneDrive\Documents\UB-Computer Engineering Files\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\rumil\OneDrive\Documents\UB-Computer Engineering Files\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumil\OneDrive\Documents\UB-Computer Engineering Files\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\rumil\OneDrive\Documents\UB-Computer Engineering Files\Machine Vision - CpE Cognate and Track Course 1\PROGRAMS\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.FacialRecognitionForm.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Projections.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+C:\Users\Dell Ultrabook\source\repos\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\concrt140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_1.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_2.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\msvcp140_codecvt_ids.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\vcruntime140_1.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\concrt140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_1.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_2.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\msvcp140_codecvt_ids.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\vcruntime140.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x64\cvextern.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\x86\cvextern.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe.config
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.exe
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\MachineVisionFinals.pdb
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Bitmap.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\OpenTK.GLControl.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\System.Drawing.Common.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ZedGraph.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\Emgu.CV.World.xml
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\de\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\es\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\fr\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\hu\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\it\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ja\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\pt\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\ru\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sk\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\sv\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\tr\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.AssemblyReference.cache
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.SuggestedBindingRedirects.cache
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.BinaryImage.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.FacialRecognitionForm.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricProperties.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.GeometricShapeRecognitionandColorDetection.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Grayscale.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.HomePageImageEditor.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageConvolution.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.ImageOrientation.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Projections.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Properties.Resources.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.PwdFacialForm.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.RGBHistogram.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Segmentation.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Signin.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.Thresholding.resources
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.GenerateResource.cache
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CoreCompileInputs.cache
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.csproj.CopyComplete
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.exe
+D:\Seloveres_MachineVisionFinals\MachineVisionFinals\MachineVisionFinals\obj\Debug\MachineVisionFinals.pdb
